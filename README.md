@@ -95,8 +95,8 @@ The labeled information was different for different CV tasks. For the 3D object 
 - 2D instance segmentation
 ```
 {
-    "id":               <str>  --  ID, indicating current task (e.g., Instance segmentation).
-    "filename":    <str>  --  Filename of the color mask image (e.g., instance.png).
+    "id":                            <str>  --  ID, indicating current task (e.g., Instance segmentation).
+    "filename":                      <str>  --  Filename of the color mask image (e.g., instance.png).
     "values": [
           {
               "label_id":            <int>  --  Integer ID of the label.
@@ -112,8 +112,9 @@ The labeled information was different for different CV tasks. For the 3D object 
 ```
 
 ## Download
-- The VCVW-3D can be accessed at https://pan.baidu.com/s/1vg4jbh-RGZXSAvSjkA2T7g (code: j80v)
-- 
+The **VCVW-3D** dataset and the **original Unity project** can be accessed:
+- at the [Baidu Netdisk download link](https://pan.baidu.com/s/1vg4jbh-RGZXSAvSjkA2T7g) using the code: **j80v**
+- or, at the [TeraBox download link](https://terabox.com/s/1b_csjQEEybl3Aio1DJukaA).
 
 ## Citation
 If you find this dataset useful, consider citing it using:
