@@ -30,9 +30,9 @@ Each captured image has an annotation record, including the record ID, sensor in
 The main fields in the "sensor" item include the camera's translation, rotation, and intrinsic parameters.
 ```
 "sensor ": {
-    "sensor_id":                   <str>  --  Sensor ID.
-    "translation":                 <float, float, float>  --   Sensor position(x, y, z) in meters, with respect to the global coordinate system. 
-    "rotation":                     <float, float, float, float>  --  Quaternion (w, x, y, z) of sensor orientation, with respect to the global coordinate system.
+    "sensor_id":             <str>  --  Sensor ID.
+    "translation":           <float, float, float>  --   Sensor position(x, y, z) in meters, with respect to the global coordinate system. 
+    "rotation":              <float, float, float, float>  --  Quaternion (w, x, y, z) of sensor orientation, with respect to the global coordinate system.
     "camera_intrinsic":      <3x3 float matrix>  --  Intrinsic camera calibration.
 }
 ```
