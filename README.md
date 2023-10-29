@@ -12,6 +12,10 @@ This repository is the **V**irtual **C**onstruction **V**ehicles and **W**orkers
 - **Sample images of each construction scene with various annotations (3D/2D bounding box and semantic segmentation).**
 ![figure_3](https://github.com/dyxm/VCVW-3D/assets/17799440/61a832d6-f664-4b7c-a435-4e5eefd25079)
 
+- **Binocular stereo vision and depth map**
+![figure_4](https://github.com/dyxm/VCVW-3D/assets/17799440/73b06b44-f6a8-4c58-ab7e-63ae90143dad)
+
+
 ## Data annotation
 Each captured image has an annotation record, including the record ID, sensor information, image save path, and specific annotation information for different CV tasks. See [this](https://github.com/Unity-Technologies/com.unity.perception/blob/main/com.unity.perception/Documentation~/Schema/PerceptionSchema.md) for more detailed information.
 ```
