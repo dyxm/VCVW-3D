@@ -117,8 +117,10 @@ The labeled information was different for different CV tasks. For the 3D object 
 
 ## Download
 The **VCVW-3D** dataset and the **original Unity project** can be accessed:
-- at the [Baidu Netdisk download link](https://pan.baidu.com/s/1vg4jbh-RGZXSAvSjkA2T7g) using the code: **j80v**
-- or, at the [TeraBox download link](https://terabox.com/s/1b_csjQEEybl3Aio1DJukaA).
+- at the [TeraBox download link](https://terabox.com/s/1b_csjQEEybl3Aio1DJukaA). **Recommended!**
+- or, at the [Baidu Netdisk download link](https://pan.baidu.com/s/1vg4jbh-RGZXSAvSjkA2T7g) using the code: **j80v**
+
+The original Unity project can be accessed at the links above, you can also customize and generate the data you want.
 
 ## Citation
 If you find this dataset useful, consider citing it using:
