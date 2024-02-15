@@ -125,9 +125,20 @@ The original Unity project can be accessed at the links above, you can also cust
 ## Citation
 If you find this dataset useful, consider citing it using:
 ```
+@article{DING2024107964,
+title = {A virtual construction vehicles and workers dataset with three-dimensional annotations},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {133},
+pages = {107964},
+year = {2024},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2024.107964},
+author = {Yuexiong Ding and Xiaowei Luo}
+}
+
 @article{ding2023vcvw,
   title={VCVW-3D: A Virtual Construction Vehicles and Workers Dataset with 3D Annotations},
-  author={Ding, Yuexiong and Luo, Xiaowei},
+  author={Yuexiong Ding and Xiaowei Luo},
   journal={arXiv preprint arXiv:2305.17927},
   year={2023}
 }
