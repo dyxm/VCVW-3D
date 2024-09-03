@@ -1,5 +1,6 @@
 # VCVW-3D
 
+[Paper](https://www.sciencedirect.com/science/article/pii/S0952197624001222) | [Citation](#citation) | [Dataset](#download)
 ## Introduction
 This repository is the **V**irtual **C**onstruction **V**ehicles and **W**orkers dataset with 3D annotations (VCVW-3D), which covers 15 construction scenes and involves ten categories of construction workers and heavy vehicles. Each construction scene contributes 20,000 and 5,000 images of 1920x1080 for the Trainval and test sets, annotated with **2D/3D bounding boxes**, **2D semantic/instance segmentation**, and **depth maps**. The automatic data synthesis programs were developed based on the Unity 3D platform and the [Perception](https://github.com/Unity-Technologies/com.unity.perception) packages.
 
